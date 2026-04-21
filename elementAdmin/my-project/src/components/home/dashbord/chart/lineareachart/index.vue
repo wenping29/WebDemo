@@ -1,0 +1,47 @@
+<template>
+    <div ref="areachart" style="width: 400px;height:400px;"></div>
+</template>
+<script>
+var echarts = require('echarts');
+// 引入柱状图
+require('echarts/lib/chart/line');
+// 引入提示框和标题组件
+require('echarts/lib/component/tooltip');
+require('echarts/lib/component/title');
+export default {
+  components: {
+    // leftmenu
+  },
+  mounted() {
+    this.initbar()
+  },
+  methods: {
+    initbar() {
+      // 基于准备好的dom，初始化echarts实例
+      var myChart = echarts.init(this.$refs.areachart);
+
+      // 指定图表的配置项和数据
+      var option = option = {
+          xAxis: {
+              type: 'category',
+              boundaryGap: false,
+              data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+          },
+          yAxis: {
+              type: 'value'
+          },
+          series: [{
+              data: [820, 932, 901, 934, 1290, 1330, 1320],
+              type: 'line',
+              areaStyle: {}
+          }]
+      };
+
+      // 使用刚指定的配置项和数据显示图表。
+      myChart.setOption(option);
+    }
+  }
+}
+</script>
+<style>
+</style>

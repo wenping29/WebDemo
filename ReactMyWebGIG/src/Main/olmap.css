@@ -1,0 +1,39 @@
+.ol-mouse-position{
+    width: 300px;
+    height: 39px;
+    /* color: red; */
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.5);
+    right: 0px;
+    /* bottom: 6px; */
+    top: calc(100% - 24px);
+    z-index: 999;
+}
+.ol-scale-line {
+    /* bottom: 0px; */
+    left: calc(30% - 190px);
+}
+.map-head{
+    height: 60px;
+    background-color: rgba(20, 48, 207, 0.5);
+    color: aliceblue;
+    overflow: hidden;
+    display: flex;
+    justify-content: flex-end;
+}
+.map-head-eft {
+    float: left;
+}
+.map-head-center {
+    float: left;
+    margin: 0 auto;
+    font-size: 32px;
+    color: aliceblue;
+}
+.map-head-right {
+    float: right;   
+}
+.map-head-left-img{
+    width: 45px;
+    height: 45px;
+}

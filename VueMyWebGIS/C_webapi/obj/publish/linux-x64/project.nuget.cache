@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "PhvDSLgc5dPxN8mFlbZsU95TEr7Zjz2hV1hSPFREjTXeu2S08B97wli8sz+rhxC3G01t5b002LCPd3G2s8IOrg==",
+  "success": true,
+  "projectFilePath": "F:\\LHGwork\\WebapiDemo\\WebapiDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JKXW\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\JKXW\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.3.1\\microsoft.identitymodel.abstractions.7.3.1.nupkg.sha512",
+    "C:\\Users\\JKXW\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.3.1\\microsoft.identitymodel.jsonwebtokens.7.3.1.nupkg.sha512",
+    "C:\\Users\\JKXW\\.nuget\\packages\\microsoft.identitymodel.logging\\7.3.1\\microsoft.identitymodel.logging.7.3.1.nupkg.sha512",
+    "C:\\Users\\JKXW\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.3.1\\microsoft.identitymodel.tokens.7.3.1.nupkg.sha512",
+    "C:\\Users\\JKXW\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\JKXW\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
+    "C:\\Users\\JKXW\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\JKXW\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\JKXW\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\JKXW\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\JKXW\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\JKXW\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.3.1\\system.identitymodel.tokens.jwt.7.3.1.nupkg.sha512",
+    "C:\\Users\\JKXW\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.16\\microsoft.netcore.app.runtime.linux-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\JKXW\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.16\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\JKXW\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.16\\microsoft.netcore.app.host.linux-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

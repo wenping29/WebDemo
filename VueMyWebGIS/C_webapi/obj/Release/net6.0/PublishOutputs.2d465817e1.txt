@@ -1,0 +1,17 @@
+F:\LHGwork\WebapiDemo\obj\Release\net6.0\PubTmp\Out\WebapiDemo.exe
+F:\LHGwork\WebapiDemo\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+F:\LHGwork\WebapiDemo\obj\Release\net6.0\PubTmp\Out\appsettings.json
+F:\LHGwork\WebapiDemo\obj\Release\net6.0\PubTmp\Out\WebapiDemo.dll
+F:\LHGwork\WebapiDemo\obj\Release\net6.0\PubTmp\Out\WebapiDemo.deps.json
+F:\LHGwork\WebapiDemo\obj\Release\net6.0\PubTmp\Out\WebapiDemo.runtimeconfig.json
+F:\LHGwork\WebapiDemo\obj\Release\net6.0\PubTmp\Out\WebapiDemo.pdb
+F:\LHGwork\WebapiDemo\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Abstractions.dll
+F:\LHGwork\WebapiDemo\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\LHGwork\WebapiDemo\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+F:\LHGwork\WebapiDemo\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+F:\LHGwork\WebapiDemo\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+F:\LHGwork\WebapiDemo\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+F:\LHGwork\WebapiDemo\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+F:\LHGwork\WebapiDemo\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\LHGwork\WebapiDemo\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\LHGwork\WebapiDemo\obj\Release\net6.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
