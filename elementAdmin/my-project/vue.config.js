@@ -54,6 +54,7 @@ module.exports = {
     Object.assign(config, {
       // 开发生产共同配置
       resolve: {
+        extensions: ['.wasm', '.mjs', '.js', '.jsx', '.vue', '.json', '.cjs'],
         alias: {
           '@': path.resolve(__dirname, './src'),
           '@c': path.resolve(__dirname, './src/components'),
