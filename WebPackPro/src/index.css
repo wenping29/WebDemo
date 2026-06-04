@@ -1,9 +1,0 @@
-@font-face {
-  font-family: 'iconfont';
-  src: url('./asset/font/SourceHanSansCN.ttf') format('truetype');
-}
-.icon{
-  color: blue;
-  font-family: 'iconfont';
-  font-size: 30px;
-}
